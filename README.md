@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Czar</h1>
-<h3 align="center">A rookie backend developer from CR</h3>
+<h1 align="center">Hello there 👋</h1>
+<h3 align="center">A rookie backend developer</h3>
 
 - 🌱 I’m currently learning 
 
