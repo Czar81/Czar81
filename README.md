@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A rookie backend developer</p>
+<p align="center">A rookie full stack developer</p>
 
 ###
 
